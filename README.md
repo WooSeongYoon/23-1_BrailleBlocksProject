@@ -1,2 +1,2 @@
-# 23-1_Project
-파손된 점자보도블록을 AI기술을 사용하여 식별 및 분류하여 관련 정보를 데이터베이스에 저장하는 프로그램이다.
+# A Study on the Damage Detection of Braille Sidewalk Block Based on Deep Learning
+딥러닝 기반 점자 보도블록 파손율 검출 연구를 진행한 프로그램
