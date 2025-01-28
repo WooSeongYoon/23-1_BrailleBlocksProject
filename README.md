@@ -14,7 +14,7 @@
 ![image](https://github.com/user-attachments/assets/8b968700-75dc-4479-b411-9b976a0ed61b)   
 CNN 모델은 YOLOv5x 모델에 의해서 인식된 파손 영역의 사진을 입력받아 파손율을 추론하는 구조로 설계하였습니다. CNN 모델의 추론 클래스는 4개로 구성하였으며 각 25%, 50%, 75%의 파손율, 그리고 0%(파손되지 않음) 파손율로 설계하였습니다.   
 ## 정확도
-- YOLOv5 정확도
+- YOLOv5 정확도   
 ![image](https://github.com/user-attachments/assets/02aa3c4f-2164-4aa1-8604-916a44f3083a)
-- CNN 정확도
+- CNN 정확도   
 ![image](https://github.com/user-attachments/assets/589c9456-2b5c-4ea5-a6cc-18c71395f25d)
