@@ -3,4 +3,4 @@
 
 # 개발 배경
 <img src="https://github.com/user-attachments/assets/23e8320f-560a-43fb-95fd-182ca46cd907" width="500" height="300"/> <img src="https://github.com/user-attachments/assets/ebcecb58-9610-402d-9537-f7970c7dac7d" width="500" height="300"/>   
-인공지능을 통해 사회적 약자에게 도움이 되는 방법 강구
+교통약자가 증가하고 있으며 관련 서비스가 증가하고 있습니다. 인공지능을 통해 사회적 약자에게 도움이 되는 방법 강구
