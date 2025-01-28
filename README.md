@@ -11,7 +11,7 @@
 ![image](https://github.com/user-attachments/assets/daf00ebd-aa6f-4ce2-b26a-67b7899bb4d4)   
 입력장치로 일반 스마트폰 카메라 등을 사용하며 이것으로 전방의 점자 보도블록을 인식합니다. 파손된 점자 보도블록을 식별하는 해당 이벤트 트리거 발생 시, 입력받은 영상 중 한 프레임을 YOLOv5x 모델과 CNN 모델에 입력하여 결과를 추론하는 모델을 설계하고 구현하였습니다.   
 ## CNN 모델 구성
-![image](https://github.com/user-attachments/assets/8b968700-75dc-4479-b411-9b976a0ed61b)
+![image](https://github.com/user-attachments/assets/8b968700-75dc-4479-b411-9b976a0ed61b)   
 CNN 모델은 YOLOv5x 모델에 의해서 인식된 파손 영역의 사진을 입력받아 파손율을 추론하는 구조로 설계하였습니다. CNN 모델의 추론 클래스는 4개로 구성하였으며 각 25%, 50%, 75%의 파손율, 그리고 0%(파손되지 않음) 파손율로 설계하였습니다.   
 ## 정확도
 ![image](https://github.com/user-attachments/assets/02aa3c4f-2164-4aa1-8604-916a44f3083a)
