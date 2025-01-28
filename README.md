@@ -1,7 +1,7 @@
 # A Study on the Damage Detection of Braille Sidewalk Block Based on Deep Learning
 딥러닝 기반 점자 보도블록 파손율 검출 연구를 진행한 프로그램   
 개발 인원: 우성윤, 김민석, 김수연, 박이산, 김민호   
-발표 영상: https://youtu.be/IIuszOisx6A   
+시연 영상: https://youtu.be/IIuszOisx6A   
 
 # 개발 배경
 <img src="https://github.com/user-attachments/assets/23e8320f-560a-43fb-95fd-182ca46cd907" width="500" height="250"/> <img src="https://github.com/user-attachments/assets/ebcecb58-9610-402d-9537-f7970c7dac7d" width="500" height="250"/>   
